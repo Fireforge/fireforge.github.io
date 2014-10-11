@@ -1,0 +1,12 @@
+# Site settings
+title: David Alan Salter
+email: davidsalter12@gmail.com
+description: >
+  Yet another developer blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://fireforge.github.io/" # the base hostname & protocol for your site
+twitter_username: fireforge124
+github_username:  fireforge
+
+# Build settings
+markdown: kramdown
